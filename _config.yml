@@ -22,8 +22,8 @@ title: Finley and Nicks Awesome Page!
 email: fincom@ad.unc.edu
 description: >- 
   Analalyzing the results from class data on need for pre-lecture videos through charts and data.
-baseurl: "/<commons-pajak>" # the subpath of your site, e.g. /blog
-url: "https://<fincom712>.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/commons-pajak" # the subpath of your site, e.g. /blog
+url: "https://fincom712.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: finley.commons
 github_username:  fincom712
 # Build settings
