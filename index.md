@@ -4,12 +4,13 @@ layout: default
 ---
 
 # Finley and Nicks Awesome Site!
+<img src="{{ site.baseurl }}/static/imgs/logo.png" width="50">
 # Summary 
 In order to improve the Comp110 class we suggest the addition of pre-class videos in order to explain complex concepts before class. This change would help students feel more prepared coming into class and hopefully increase success in course.
 To analyze this, we graphed class data to see is such videos would be a neccessary and wanted resource.
 # Charts
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="{{ site.baseurl }}/static/imgs/logo.png" width="50">
+
 <img src="{{ site.baseurl }}/static/imgs/Graph1.png" width="500">
 <img src="{{ site.baseurl }}/static/imgs/Graph2.png" width="500">
 <img src="{{ site.baseurl }}/static/imgs/Graph3.png" width="500">
